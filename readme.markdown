@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o **Eduardo Gouveia**
+# 👋 Olá! Eu sou o **Eduardo F. Gouveia**
 
 🎓 **Professor Técnico de Programação e Algoritmos**  
 💻 **Desenvolvedor Web & Mobile**  
