@@ -1,43 +1,63 @@
 # 👋 Olá! Eu sou o **Eduardo F. Gouveia**
 
-🎓 **Professor Técnico de Programação e Algoritmos**  
-💻 **Desenvolvedor Web & Mobile**  
-⚙️ **Entusiasta em IoT e Automação**
+💻 **Programador C# (.NET MVC, Razor, Blazor)**  
+🔄 **Manutenção e evolução de sistemas legados | Migração para Blazor**  
+🗄️ **MariaDB, LINQ | Educação, inovação e software corporativo**
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e ensino.  
-Atuo no desenvolvimento de aplicações web, mobile e sistemas integrados com IoT, sempre buscando unir **educação, inovação e código limpo**.  
-Gosto de transformar ideias em projetos práticos que gerem aprendizado e impacto real.
+Sou programador com sólida experiência no desenvolvimento de **sistemas corporativos**, atuando atualmente na **Hold Brazil** com **C# e .NET**.
 
-> “Transformar conhecimento em código e código em oportunidades.”
+Trabalho no desenvolvimento de **novas funcionalidades em sistemas legados ASP.NET MVC**, bem como na **migração e modernização de aplicações para Blazor**, com foco em **performance, manutenibilidade e escalabilidade**.
 
+Possuo experiência com **Razor, jQuery, HTML5, MariaDB e LINQ**, além de uma forte base em **arquitetura de software**, organização de código e evolução de sistemas críticos.
+
+Sou apaixonado por tecnologia e ensino. Paralelamente à atuação profissional, sou **Professor Técnico de Tecnologia desde 2019**, lecionando Programação, Banco de Dados, IoT e Desenvolvimento de Sistemas, conectando prática de mercado com formação técnica de qualidade.
+
+🎯 **Propósito:** usar a tecnologia para resolver problemas reais, modernizar sistemas e formar profissionais preparados para o futuro digital.  
+> *“Transformar conhecimento em código e código em oportunidades.”*
+
+
+🎯 Propósito: usar a tecnologia para resolver problemas reais, modernizar sistemas e formar profissionais preparados para o futuro digital.
+"Transformar conhecimento em código e código em oportunidades"
 ---
 
 ## 🚀 Tecnologias que utilizo
 
 ### 💻 **Backend**
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+###🗄️ Banco de Dados & Acesso a Dados
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ### 🌐 **Frontend**
 <p>
+  <img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+
 ### 📱 **Mobile**
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
+
 
 ### 🔌 **IoT e Hardware**
 <p>
