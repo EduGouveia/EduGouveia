@@ -92,8 +92,8 @@ Sou apaixonado por tecnologia e ensino. Paralelamente à atuação profissional,
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=eduardogouveia&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogouveia&layout=compact&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=edugouveia&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugouveia&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -101,8 +101,8 @@ Sou apaixonado por tecnologia e ensino. Paralelamente à atuação profissional,
 ## 📫 Como me encontrar
 
 <p align="center">
-  <a href="mailto:eduardo.gouveia@email.com"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eduardogouveia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:edufg.sp@gmail.com"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/edugouveia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
