@@ -90,11 +90,18 @@ Sou apaixonado por tecnologia e ensino. Paralelamente à atuação profissional,
 ---
 
 ## 📈 Estatísticas do GitHub
-<p align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduGouveia&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduGouveia&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduGouveia&theme=tokyonight"/>
 </p>
+
+--
+## 🛠 Stack Principal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,blazor,html,css,js,jquery,mysql,git,github,vscode"/>
+</p>
+
 ---
 
 ## 📫 Como me encontrar
