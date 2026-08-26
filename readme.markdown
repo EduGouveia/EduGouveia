@@ -88,11 +88,12 @@ Sou apaixonado por tecnologia e ensino. Paralelamente à atuação profissional,
 - **Inovação e Empreendedorismo Digital**
 
 ---
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=585&lines=Acompanhe+a+Estat%C3%ADsticas+do+EduGouveia+no+GitHub" alt="Typing SVG" /></a>
 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduGouveia&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=EduGouveia&theme=tokyonight"/>
 </p>
 
 --
