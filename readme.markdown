@@ -440,7 +440,7 @@ Foco: processamento assíncrono, tarefas em background, automação de processos
 
 ---
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=585&lines=O+Clima+em+edugouveia%2Egithub%2Eio%2Fgticlima" alt="Typing SVG" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=585&lines=Consulte+o+Clima+em+edugouveia%2Egithub%2Eio%2Fgticlima" alt="Typing SVG" /></a>
 
 ## 📈 Estatísticas do GitHub
 
